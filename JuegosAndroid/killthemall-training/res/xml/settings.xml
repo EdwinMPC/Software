@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+  <CheckBoxPreference
+  android:key="música"
+  android:title="@string/titulo_audio"
+  android:summary="@string/etiqueta_audio"
+  android:defaultValue="true" />
+  <CheckBoxPreference
+  android:key="Con ayuda"
+  android:title="@string/titulo_conayuda"
+  android:summary="@string/etiqueta_conayuda"
+  android:defaultValue="false" />
+</PreferenceScreen>

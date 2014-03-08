@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <string name="app_name">PACK JUEGO</string>
+<string name="titulo_principal">Pack de Juegos</string>
+<string name="nuevo_juego">Jugar Ahorcado</string>
+<string name="salir">Salir</string>
+<string name="titulo_config">Configuración de Ahorcado</string>
+<string name="etiqueta_config">Configuración</string>
+<string name="tecla_config">c</string>
+<string name="titulo_audio">Audio</string>
+<string name="etiqueta_audio">Activar música de fondo</string>
+<string name="titulo_conayuda">Ayuda</string>
+<string name="etiqueta_conayuda">Activar ayuda</string>
+<string name="juego_matador">Jugar Matanza</string>
+<string name="menu_play">SALIR</string>
+<string name="menu_options">JUEGO MATANZA</string>
+<string name="menu_exit">JUEGO AHORCADO</string>
+</resources>

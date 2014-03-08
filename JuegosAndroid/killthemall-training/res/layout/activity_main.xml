@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#000"
+    android:orientation="vertical" >
+
+<TextView
+    android:layout_width="207dp"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="30dip"
+    android:layout_marginLeft="60dp"
+    android:layout_marginTop="20dp"
+    android:background="@drawable/logo"
+    android:gravity="center_vertical|center_horizontal"
+    android:textAppearance="?android:attr/textAppearanceLarge" />
+
+<TextView
+    android:id="@+id/zombie"
+    android:layout_width="207dp"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="30dip"
+    android:layout_marginLeft="60dp"
+    android:layout_marginTop="10dp"
+    android:background="@drawable/matazombie"
+    android:gravity="center_vertical|center_horizontal"
+    android:textAppearance="?android:attr/textAppearanceLarge" />
+
+<TextView
+    android:id="@+id/ahorcado"
+    android:layout_width="202dp"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="60dp"
+    android:layout_marginTop="20dp"
+    android:background="@drawable/jugarahorcado"
+    android:gravity="center_vertical|center_horizontal"
+    android:textAppearance="?android:attr/textAppearanceLarge" />
+
+<TextView
+    android:id="@+id/salir"
+    android:layout_width="202dp"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="30dip"
+    android:layout_marginLeft="60dp"
+    android:layout_marginTop="40dp"
+    android:background="@drawable/salir"
+    android:gravity="center_vertical|center_horizontal"
+    android:textAppearance="?android:attr/textAppearanceLarge" />
+
+</LinearLayout>
+
+

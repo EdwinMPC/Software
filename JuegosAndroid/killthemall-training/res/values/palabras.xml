@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <string-array name="palabras">
+        <item>FACEBOOK</item>
+        <item>TWITTER</item>
+        <item>GOOGLE</item>
+        <item>YAHOO</item>
+    </string-array>
+</resources>
